@@ -1,1 +1,1 @@
-# internet-speeds-visualizations
+# Internet-Speeds-Visualizations
