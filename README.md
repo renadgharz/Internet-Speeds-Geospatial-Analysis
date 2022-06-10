@@ -1,1 +1,1 @@
-# Internet-Speeds-Visualizations
+# Internet-Speeds-Geospatial-Analysis
